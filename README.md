@@ -1,2 +1,2 @@
-# config-server
-Config Server
+# application-config
+This project contains application configuration
